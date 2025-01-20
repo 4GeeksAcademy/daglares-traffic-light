@@ -9,3 +9,9 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.brillo{
+    -webkit-box-shadow: 10px 10px 213px 54px rgba(235,190,9,1);
+    -moz-box-shadow: 10px 10px 213px 54px rgba(235,190,9,1);
+    box-shadow: 10px 10px 213px 54px rgba(235,190,9,1);
+}
